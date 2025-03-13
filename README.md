@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **mohdtaifqureshi@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1JMIcdr0KeGcNKBgUl-EETY28PZV8E3Mv/view?usp=drive_link](https://drive.google.com/file/d/1JMIcdr0KeGcNKBgUl-EETY28PZV8E3Mv/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Gmid0cLStf35CJlA5zY6PMy2Mx8qTFPh/view?usp=drive_link](Resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
