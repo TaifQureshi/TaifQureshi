@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Taif Qureshi</h1>
 <h3 align="center">A passionate Data Scientist and developer from India</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/TaifQureshi?tab=repositories](https://github.com/TaifQureshi?tab=repositories)
+- 👨‍💻 All of my projects are available at [Repo](https://github.com/TaifQureshi?tab=repositories)
 
 - 📫 How to reach me **mohdtaifqureshi@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Gmid0cLStf35CJlA5zY6PMy2Mx8qTFPh/view?usp=drive_link](Resume)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Gmid0cLStf35CJlA5zY6PMy2Mx8qTFPh/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
